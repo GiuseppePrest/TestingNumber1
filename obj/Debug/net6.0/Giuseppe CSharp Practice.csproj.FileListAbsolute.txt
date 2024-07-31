@@ -1,0 +1,15 @@
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\bin\Debug\net6.0\Giuseppe CSharp Practice.exe
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\bin\Debug\net6.0\Giuseppe CSharp Practice.deps.json
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\bin\Debug\net6.0\Giuseppe CSharp Practice.runtimeconfig.json
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\bin\Debug\net6.0\Giuseppe CSharp Practice.dll
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\bin\Debug\net6.0\Giuseppe CSharp Practice.pdb
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.csproj.AssemblyReference.cache
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.AssemblyInfoInputs.cache
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.AssemblyInfo.cs
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.csproj.CoreCompileInputs.cache
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.dll
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\refint\Giuseppe CSharp Practice.dll
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.pdb
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\Giuseppe CSharp Practice.genruntimeconfig.cache
+C:\Users\Giuseppe\source\repos\Giuseppe CSharp Practice\Giuseppe CSharp Practice\obj\Debug\net6.0\ref\Giuseppe CSharp Practice.dll
